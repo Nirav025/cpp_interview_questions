@@ -21,9 +21,9 @@ int main()
     }
 
     if(originalnumber==sum){
-        cout<<sum<<" is a Palidrome Number"<<endl; //not required to print "sum" in this
+        cout<<sum<<" is a Armstrong Number"<<endl; //not required to print "sum" in this
     }else{
-        cout<<sum<<" is not a Palidrome Number"<<endl;
+        cout<<sum<<" is not a Armstrong Number"<<endl;
     }
     return 0;
 }

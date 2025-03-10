@@ -9,7 +9,6 @@ int main()
     int originalnumber;
     int sum=0;
 
-
     cout<<"Enter Your Number : ";
     cin>>number;
 
@@ -27,7 +26,6 @@ int main()
         cout<<sum<<" is not a palidrome number"<<endl;
     }
 
-   
     return 0;
 }
 

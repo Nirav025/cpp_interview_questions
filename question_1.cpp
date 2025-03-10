@@ -17,8 +17,6 @@ int main(){
      else if(n%2==0){
         cout<<"Your number is even"<<endl;
     }
-
-
     else{
         cout<<"Your Number is Odd"<<endl;
     }
